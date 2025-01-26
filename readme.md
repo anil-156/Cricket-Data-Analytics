@@ -1,3 +1,5 @@
+<h1>Cricket Data Analytics using Power BI,Dax,Excel</h1>
+
 <ul>
 <li>I have created Cricket Data Analytics using Power BI, DAX and Excel.</li>
 <li>This Cricket Stats is based on Top 10 runs scorers and Top 10 wicket takers from each of the three format ie ODI,Test and T20I.</li>
