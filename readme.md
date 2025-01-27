@@ -30,6 +30,12 @@ A comprehensive cricket analytics dashboard built using Power BI, focusing on th
    - Bowling averages
    - Economy rates
    - Performance patterns
+## Screenshots
+![image](https://github.com/user-attachments/assets/6df1db64-75b7-4530-ab74-decf302d1c5d)
+
+![image](https://github.com/user-attachments/assets/4ca9808d-ca22-4598-89c5-883506a4b3dc)
+
+
    
 ## How to Use
 1. Clone the repository
